@@ -271,7 +271,7 @@ public class SAGPad extends Activity implements OnClickListener
     	String second = Integer.toString(c.get(Calendar.SECOND));
     	String amOrPm = (c.get(Calendar.AM_PM) == 0)?"AM":"PM"; 
     	
-    	return "" + pad(hour) + ":" + pad(minute) + ":" + pad(second) + " " + amOrPm + "";
+    	return "[" + pad(hour) + ":" + pad(minute) + ":" + pad(second) + " " + amOrPm + "]";
     }
     
     public static String pad(String str)

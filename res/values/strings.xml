@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SAGPad</string>
+    <string name="menu_clear">Clear</string>
+    <string name="add_note">Add Note</string>
+    <string name="notes_title">Notes:</string>
+
+    <string name="context_edit">Edit Message</string>
+    <string name="context_remove">Remove Message</string>
+    <string name="context_copy">Copy Text</string>
+    
+    <string name="prompt_edit_title">Edit Message</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_cancel">Cancel</string>
+
+</resources>
